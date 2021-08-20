@@ -1,14 +1,19 @@
 ﻿<Properties StartupConfiguration="{F6CBB727-BD52-40DE-B0A9-D090C703CBA1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="testPro/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testPro/Car.cs">
     <Files>
-      <File FileName="testPro/Program.cs" Line="1" Column="1" />
+      <File FileName="testPro/Program.cs" Line="11" Column="6" />
+      <File FileName="testPro/IVehicle.cs" Line="6" Column="8" />
+      <File FileName="testPro/ICompany.cs" Line="6" Column="9" />
+      <File FileName="testPro/Car.cs" Line="1" Column="1" />
+      <File FileName="testPro/Suv.cs" Line="1" Column="1" />
+      <File FileName="testPro/Truck.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="testProAPp" expanded="True">
             <Node name="testPro" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Car.cs" selected="True" />
             </Node>
           </Node>
         </State>
