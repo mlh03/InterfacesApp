@@ -1,0 +1,15 @@
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/bin/Debug/net5.0/testPro.deps.json
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/bin/Debug/net5.0/testPro.runtimeconfig.json
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/bin/Debug/net5.0/testPro.runtimeconfig.dev.json
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/bin/Debug/net5.0/testPro.dll
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/bin/Debug/net5.0/ref/testPro.dll
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/bin/Debug/net5.0/testPro.pdb
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.csproj.AssemblyReference.cache
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.AssemblyInfoInputs.cache
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.AssemblyInfo.cs
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.csproj.CoreCompileInputs.cache
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.dll
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/ref/testPro.dll
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.pdb
+/Users/mohamedalsadi/Desktop/testProAPp/testPro/obj/Debug/net5.0/testPro.genruntimeconfig.cache
